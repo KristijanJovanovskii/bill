@@ -79,7 +79,7 @@ const Stage1 = () => {
                 }
               </ul>
              </div>
-            </>
+            </> 
           : null
         }
       </Form>
