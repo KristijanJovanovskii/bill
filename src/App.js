@@ -1,7 +1,7 @@
 import React  from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
-
+import 'react-toastify/dist/ReactToastify.css';
 import {MyContext} from './context';
 import Stage1 from "./components/stage_1";
 import Stage2 from "./components/stage_2";
